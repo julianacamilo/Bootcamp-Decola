@@ -1,2 +1,2 @@
-# Bootcamp-Decola
- Repositório para anotações e exercícios 
+# Bootcamp Decola
+ Repositório criado para anotações e exercícios aprendidos e executados no bootcamp.
